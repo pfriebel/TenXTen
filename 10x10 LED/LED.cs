@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace _10x10_LED
 { 
+    /// <summary>
+    /// 
+    /// </summary>
     public class LED
     {
         public int redValue { get; set; }
